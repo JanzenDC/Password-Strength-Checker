@@ -1,8 +1,6 @@
 <h1 align="center">Password Strength Checker</h1>
 
-<p align="center">
-  <img src="screenshot.png" alt="Password Strength Checker Screenshot">
-</p>
+![image](https://github.com/JanzenDC/Password-Strength-Checker/assets/145821913/75db35fd-c022-4ecc-b6cf-f0d1af83ca45)
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -34,4 +32,4 @@
 ```shell
 git clone https://github.com/yourusername/password-strength-checker.git
 ```
-![image](https://github.com/JanzenDC/Password-Strength-Checker/assets/145821913/75db35fd-c022-4ecc-b6cf-f0d1af83ca45)
+
